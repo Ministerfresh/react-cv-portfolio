@@ -1,7 +1,5 @@
-import { style } from "framer-motion/client";
-
 function Button({ children, href, variant = "primary", className = "", ...props }) {
-    const baseStyles = "inline-flex items-center justify-center px-6 py-3 rounded-lg font-semibold transition";
+    const baseStyles = "inline-flex items-center justify-center text-center px-6 py-3 rounded-lg font-semibold transition";
 
     const variants = {
         primary:

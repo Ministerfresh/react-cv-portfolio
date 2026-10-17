@@ -7,8 +7,8 @@ const projects = [
         description: "A modern portfolio website built with React, Vite and Tailwind CSS.",
         image:"/images/Portfolio.jpg",
         technologies: ["React", "Tailwind", "Vite"],
-        github: "#",
-        live: "#",
+        github: "https://github.com/Ministerfresh/react-cv-portfolio.git",
+        live: "https://react-cv-portfolio.vercel.app/",
     },
 
     {
